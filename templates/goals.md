@@ -1,5 +1,5 @@
 
-# $Anthony's Course Goals
+# Anthony's Course Goals
 
 ## Goal One
 
