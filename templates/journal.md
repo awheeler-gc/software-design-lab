@@ -1,4 +1,13 @@
-# $NAME's Technical Journal
+# Anthony's Technical Journal
+
+##Week Three: Git/GitHub Adventures Continue, Python Joins the Party 
+
+This past week I spent a large portion of my time playing with the command line in a desperate attempt to make sense of the git commands. Up until now, I haven't had to really Google THAT much stuff when it came to learning code. However, git hath bested me. Thus why I stayed after class this past week to get my GitHub repository all sorted out. Now, writing this journal from my desk at home, I had to rediscover just how we made it work after class. So I did the stuff I remembered, then came the joy of committing things and getting it pushed to GitHub (the fun part). If this journal is posted then pat me on the back because I got it! All throughout my schooling, it was extremey rare for me to take physical notes. However, I found myself pulling out my little Manifold (shameless plug for Matt) notebook and writing directions and code orders. So all in all, I am getting it I think! As far as Python, I haven't hit any speedbumps with it yet. Between workshops and GCDRI, I'm pretty comfortable with the basics!
+
+Hour 1: Git research/notes
+Hour 2: Git committing/pushing
+Hour 3: Revisiting Python basics
+Hour 4: Wrap up, revised goals, wrote weekly technical journal
 
 ## Week Two (1/30 to 2/6)
 
