@@ -1,6 +1,6 @@
 # Anthony's Technical Journal
 
-##Week Four: HTML/CSS and Spider-Man
+## Week Four: HTML/CSS and Spider-Man
 
 This past week's class on HTML/CSS was a good refresher for me. I took Patrick Smyth's HTML/CSS workshop back in September 2018, and it was very similar to what we did in class this week. I also conducted similar experimentation with HTML/CSS during the GC Digital Research Institute last month. So after getting some repeated exposure, I went ahead and made a very brutalist, 90's looking website. The theme you ask? The original Spider-Man trilogy and why Toby Maguire as Spider-Man is superior (due to the sheer hilarity of it). The website has some links (that currently lead nowhere) to my opinions on Andrew and Tom's respective performances in their Spider-Man films, and the site is topped off with a wonderful image of Toby from the infamous bar-dance scene from Spider-Man 3. It was fun! I even managed to make some text glide across the screen, which was wild. Definitely a fun experiment!
 
