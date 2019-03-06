@@ -1,5 +1,14 @@
 # Anthony's Technical Journal
 
+## Week Five: Hyde Has Nothing on the Horrors of Jekyll
+
+So this past week we came to class and conducted our lab portion in which we experimented with Jekyll. I downloaded all of the required software, but I ran into an issue. Every time I closed out the terminal, Jekyll (along with Homebrew and Ruby) would magically vanish. Then I'd redownload it all, and it would work (or at least seem to be working) while I kept that specific terminal window open and continued working from it. I spent a frustrating amount of time trying to resolve this issue. However, I eventually surrendered. I think something that also hindered me was not really understanding the purpose of Jekyll, outside of it being another fancy way of creating this online spaces? I guess it just feels like there is other more simple ways to do it. Maybe Jekyll and I were just never meant to be.
+
+Hour 1: Troubleshooting
+Hour 2: Research on said troubleshooting
+Hour 3: Troubleshooting some more
+Hour 3.5: Giving up, stepping away from the screen, and eating snacks
+
 ## Week Four: HTML/CSS and Spider-Man
 
 This past week's class on HTML/CSS was a good refresher for me. I took Patrick Smyth's HTML/CSS workshop back in September 2018, and it was very similar to what we did in class this week. I also conducted similar experimentation with HTML/CSS during the GC Digital Research Institute last month. So after getting some repeated exposure, I went ahead and made a very brutalist, 90's looking website. The theme you ask? The original Spider-Man trilogy and why Toby Maguire as Spider-Man is superior (due to the sheer hilarity of it). The website has some links (that currently lead nowhere) to my opinions on Andrew and Tom's respective performances in their Spider-Man films, and the site is topped off with a wonderful image of Toby from the infamous bar-dance scene from Spider-Man 3. It was fun! I even managed to make some text glide across the screen, which was wild. Definitely a fun experiment!
