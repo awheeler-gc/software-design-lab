@@ -1,5 +1,19 @@
 # Anthony's Technical Journal
 
+## Weeks Six & Seven: Rolling the Die at Red Lobster
+
+To preface, these past couple of weeks have been difficult for me in terms of logging on and playing with Python. Thanks to the drastic fulcation of weather, my allergies came in full-swing, which domino-effected into some pre-existing health problems of mine. However, I was able to squeeze at least a few hours in.
+
+A couple weeks back, we made the Magic 9 Ball generator triggered by burning questions, all in Python. So I attempted to do something a little more simple, but still a lot for a newcomer. I tried to make a random dice generator. So essentially, you would "roll!" and it'd give you a random number. This was moderately easy, but then I tried to double the stakes and add another die in, which was unsuccessful.
+
+As for the cafe programming we did last week, I decided to rearrange it to fit a restaurant setting. I swapped the language to fulfill the order of a patron at Red Lobster. I worked at Red Lobster all throughout my four years of undergrad, so I took the ordering process and tried to recreate it using Python. It was honestly pretty difficult. I think it would be easier if we took screenshots of our process during class, so we have some sort of guide to use outside the classroom. Googling helps, but only sometimes.
+
+Hour 1: Magic 9 Ball -> Dice Roll
+Hour 2: Double Dice Roll Fail
+Hour 3: Switching Language from Cafe -> Red Lobster
+Hour 4: Troubleshooting/trying to get the code correct
+
+
 ## Week Five: Hyde Has Nothing on the Horrors of Jekyll
 
 So this past week we came to class and conducted our lab portion in which we experimented with Jekyll. I downloaded all of the required software, but I ran into an issue. Every time I closed out the terminal, Jekyll (along with Homebrew and Ruby) would magically vanish. Then I'd redownload it all, and it would work (or at least seem to be working) while I kept that specific terminal window open and continued working from it. I spent a frustrating amount of time trying to resolve this issue. However, I eventually surrendered. I think something that also hindered me was not really understanding the purpose of Jekyll, outside of it being another fancy way of creating this online spaces? I guess it just feels like there is other more simple ways to do it. Maybe Jekyll and I were just never meant to be.
@@ -25,15 +39,3 @@ Hour 1: Git research/notes
 Hour 2: Git committing/pushing
 Hour 3: Revisiting Python basics
 Hour 4: Wrap up, revised goals, wrote weekly technical journal
-
-## Week Two (1/30 to 2/6)
-
-This week, I spent part of my time reviewing Git and the command line, including an hour with the DHRI command line tutorial. I found Git to be tough going, but feel like I made solid progress learning how to use pipes on the command line, though I'm still a little confused on the details of how they work. I also started learning how to run scripts in Python, which was very time consuming.
-
-Hour 1: Git review using Pro Git book
-Hour 2: Git review using Pro Git book
-Hour 3: Phone call with classmate to fiture out pipes
-Hour 4: Tried running a "hello world" Python script
-Hour 5: ''
-Hour 6: ''
-Hour 7: Should have given up, but got the script eworking, though I'm still not sure what went wrong.
