@@ -1,5 +1,20 @@
 # Anthony's Technical Journal
 
+##Weeks Nine & Ten:
+
+I ask you bare with me here, I've been squeezing in these lab hours between my jobs. I just started working for/joined the CUNY Academic Commons team, so I have been stretched a little thin lately between that, being the program assistant for Digital Humanities and Data Analysis & Visualization, and teaching at LaGuardia! So, for this entry, I went ahead and played with databases, specifically using SQL. 
+
+I started playing a bit with SQL late last semester, then touched based (gently) with it again during the GCDRI this past January. I went ahead and tried creating fields and tables with SQL. I did my best to do it from memory and association, and after a couple hours worth of fiddling with it, I decided to go ahead and refer back to notes from GCDRI.
+
+We had made a table of students, programs, and other academic jargon. So I tried to be a little more creative with it and create a table of foods. I would (attempt) to insert a food into the table and associate it with one of two categories; Italian or Chinese. Then, instead of associating the students with GPA's, I tried to write a query that paired them with general prices.
+
+It was kind of messy, and I had a lot of back and forth, but I sort of created a table? I tried y'all. It will be much easier going over it in class alongside everyone I'm sure, BUT at least I tried to get my toes wet.
+
+Hours 1 & 2: Fiddling with code from memory, rather unsuccesfully 
+Hour 3: Figuring out how to create a column dedicated to food genres.
+Hour 4: Attempting to write a query associating the food items with a price.
+Hour 5: Trying to write queries to reorganize the data.
+
 ## Weeks Six & Seven: Rolling the Die at Red Lobster
 
 To preface, these past couple of weeks have been difficult for me in terms of logging on and playing with Python. Thanks to the drastic fulcation of weather, my allergies came in full-swing, which domino-effected into some pre-existing health problems of mine. However, I was able to squeeze at least a few hours in.
