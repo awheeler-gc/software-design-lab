@@ -1,6 +1,6 @@
 # Anthony's Technical Journal
 
-##Weeks Nine & Ten:
+## Weeks Nine & Ten: Food with a Dash of SQL
 
 I ask you bare with me here, I've been squeezing in these lab hours between my jobs. I just started working for/joined the CUNY Academic Commons team, so I have been stretched a little thin lately between that, being the program assistant for Digital Humanities and Data Analysis & Visualization, and teaching at LaGuardia! So, for this entry, I went ahead and played with databases, specifically using SQL. 
 
