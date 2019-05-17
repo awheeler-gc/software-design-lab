@@ -1,5 +1,17 @@
 # Anthony's Technical Journal
 
+## Weeks Eleven & Twelve: CCNY? More like CCN-WHY?!
+
+To preface, I apologize for that AWFUL pun. So these weeks were mostly dedicated to my team and our final project. Lauren, Senom, and I were recruited by Marie to optimize the CUNY City College Scholarship page. My primary role was to be Content Developer, so I had to go in, pull whatever information I needed/could salvage, and rework them into 5 different dynamic but digestible static site pages. The original scholarship page for CCNY was(is) super inaccessible. The colors are all super light grays or super dark purples. There's only one giant page, which has a very confusing order to it. AND it has does not really provide helpful information and links to what students are wanting and needing out of this critical campus resource.
+
+So, I went in and divided the page up. I had to do research on specific regulations pertaining to CCNY specifically, and then the greater umbrella that is the City University of New York. I then re-wrote the information to be more digestable for their target audience (undergraduate students, roughly 18 or so years of age) and provided links where neccessary. We overextended and tried to insert a dynamic form directly on the page, but I think Lauren and Senom could provide more details on that. 
+
+Hours 1 & 2: Reading through the website and determining what was appropriate to salvage, what needed alterations, and what needed to be trashed.
+Hour 3: Making edits
+Hour 4: Finding appropriate/functioning links to scholarships and help pages for student needs
+Hour 5: Applying changes to a document and reorganizing them to be efficiently divided
+Hour 6: Sharing new content with the team members and communicating purposes with the client.
+
 ## Weeks Nine & Ten: Food with a Dash of SQL
 
 I ask you bare with me here, I've been squeezing in these lab hours between my jobs. I just started working for/joined the CUNY Academic Commons team, so I have been stretched a little thin lately between that, being the program assistant for Digital Humanities and Data Analysis & Visualization, and teaching at LaGuardia! So, for this entry, I went ahead and played with databases, specifically using SQL. 
